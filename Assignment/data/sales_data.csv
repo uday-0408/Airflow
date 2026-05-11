@@ -1,0 +1,21 @@
+order_id,product,quantity,unit_price,sale_date,region
+1001,Laptop,2,899.99,2024-03-15,North
+1002,Mouse,5,29.99,2024-03-15,South
+1003,Keyboard,3,79.99,2024-03-15,North
+1004,Monitor,1,349.99,2024-03-15,East
+1005,Headphones,4,59.99,2024-03-15,West
+1006,Tablet,2,499.99,2024-03-15,South
+1007,Printer,1,199.99,2024-03-15,East
+1008,Webcam,6,45.50,2024-03-15,North
+1009,SSD,3,129.99,2024-03-15,West
+1010,Router,2,89.99,2024-03-15,South
+1011,Microphone,2,149.99,2024-03-15,East
+1012,Speaker,5,99.99,2024-03-15,West
+1013,Graphics Card,1,699.99,2024-03-15,North
+1014,USB Cable,10,9.99,2024-03-15,South
+1015,Smartphone,2,799.99,2024-03-15,East
+1016,Power Bank,4,39.99,2024-03-15,West
+1017,Desk Lamp,3,24.99,2024-03-15,North
+1018,External HDD,2,119.99,2024-03-15,South
+1019,Gaming Chair,1,249.99,2024-03-15,East
+1020,WiFi Adapter,5,34.99,2024-03-15,West
