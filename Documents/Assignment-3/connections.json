@@ -1,0 +1,12 @@
+{
+  "snowflake_default": {
+    "conn_type": "snowflake",
+    "description": null,
+    "login": "UDAY",
+    "password": "Udaychauhan@0408",
+    "host": null,
+    "port": null,
+    "schema": "PIPELINE",
+    "extra": "{\"account\": \"HLZTVKB-PZB90039\", \"warehouse\": \"COMPUTE_WH\", \"database\": \"AIRFLOW_DB\", \"region\": null, \"role\": null, \"private_key_file\": null, \"private_key_content\": null, \"insecure_mode\": null, \"proxy_host\": null, \"proxy_port\": null, \"proxy_user\": null, \"proxy_password\": null}"
+  }
+}
